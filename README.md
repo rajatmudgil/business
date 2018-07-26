@@ -1,1 +1,1 @@
-This website is designed and created for Buisness and Startups or company purposes.
+This is fully responsive website for Corporate Business.
